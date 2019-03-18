@@ -5,12 +5,6 @@
         "first_name": "First Name",
         "last_name": "Last Name",
         "save_button": "Save"
-      },
-      "tr": {
-        "phone_number": "Telefon numarası",
-        "first_name": "İsim",
-        "last_name": "Soyad",
-        "save_button": "Kaydet"
       }
     }
 }
